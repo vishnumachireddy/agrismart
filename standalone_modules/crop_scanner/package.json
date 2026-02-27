@@ -1,0 +1,11 @@
+{
+    "name": "standalone-crop-scanner",
+    "version": "1.0.0",
+    "description": "Dependencies for the Crop Scanner module",
+    "dependencies": {
+        "lucide-react": "^0.300.0",
+        "@supabase/supabase-js": "^2.39.0",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    }
+}
